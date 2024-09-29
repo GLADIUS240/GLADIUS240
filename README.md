@@ -2,7 +2,7 @@
 
 
 <p align="center">
-   <a  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=2500&pause=1000&color=4BE2F7&Center=true&width=320&height=35&lines=Hi+%F0%9F%91%8B%2C+I'm+Gladius;AKA+Deepak+Bora+%F0%9F%98%85;An+Artist+%F0%9F%96%8C%EF%B8%8F%F0%9F%8E%A8;JAVA+Developer+%E2%99%A8%EF%B8%8F%F0%9F%8D%83;UI%2FUX+Designer+%F0%9F%A4%8C%F0%9F%8F%BB%F0%9F%93%B1" alt="Typing SVG" /></a>
+   <a  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=2500&pause=1000&color=4BE2F7&center=true&width=320&height=35&lines=Hi+%F0%9F%91%8B%2C+I'm+Gladius;AKA+Deepak+Bora+%F0%9F%98%85;An+Artist+%F0%9F%96%8C%EF%B8%8F%F0%9F%8E%A8;JAVA+Developer+%E2%99%A8%EF%B8%8F%F0%9F%8D%83;UI%2FUX+Designer+%F0%9F%A4%8C%F0%9F%8F%BB%F0%9F%93%B1" alt="Typing SVG" /></a>
 </p>
 
 <h3 align="center">🚀 Java Enthusiast | Eager to learn</h3>
