@@ -39,7 +39,9 @@
 
 <br><br>
 
-<img  src="https://github-readme-activity-graph.vercel.app/graph?username=gladius240" alt="Gladius240" width="92%" align="center" />
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=gladius240" alt="Gladius240" width="92%" />
+</div>
 
 <br><br>
 
@@ -56,9 +58,9 @@
 <h2 align="center">🎸 Activity:</h2><br>
 <div align="center">
     <div>
-        <a href="https://discord.com/users/528998913806696458">
-            <img src="https://lanyard.cnrad.dev/api/528998913806696458?animated=true&idleMessage=Taking%20some%20rest...&showDisplayName=true&hideProfile=true" alt="Live Discord Status">
-        </a>
+        <a href="https://discord.com/users/528998913806696458"><img
+            src="https://lanyard.cnrad.dev/api/564327207133249536?animated=true&idleMessage=Scrolling%20Pinterest%20for%20art%20references...&showDisplayName=true&hideProfile=true"
+                alt="Live Discord Status"></a>
     </div>
   <a href="https://github.com/kittinan/spotify-github-profile">
   <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=xprlca1fazgg5uiqvm6h0z3i7&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true" alt="spotify-github-profile" />
