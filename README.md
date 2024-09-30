@@ -66,9 +66,9 @@
             src="https://lanyard.cnrad.dev/api/564327207133249536?animated=true&idleMessage=Scrolling%20Pinterest%20for%20art%20references...&showDisplayName=true&hideProfile=true"
                 alt="Live Discord Status"></a>
     </div>
-  <a href="https://github.com/kittinan/spotify-github-profile">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=xprlca1fazgg5uiqvm6h0z3i7&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true" alt="spotify-github-profile" />
-</a>
+<p><a href="https://spotify-github-profile.kittinanx.com/api/view?uid=xprlca1fazgg5uiqvm6h0z3i7&amp;redirect=true"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=xprlca1fazgg5uiqvm6h0z3i7&amp;cover_image=true&amp;theme=default&amp;show_offline=false&amp;background_color=121212&amp;interchange=true&amp;bar_color_cover=true" alt="spotify-github-profile"></a></p>
+
+
 
 
 </div>
