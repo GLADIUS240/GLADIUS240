@@ -44,7 +44,7 @@
 <br><br>
 
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=gladius240" alt="Gladius240" width="92%" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=gladius240&theme=high-contrast" alt="Gladius240" width="92%" />
 </div>
 
 <br><br>
