@@ -63,7 +63,7 @@
 <div align="center">
     <div>
         <a href="https://discord.com/users/528998913806696458"><img
-            src="https://lanyard.cnrad.dev/api/564327207133249536?animated=true&idleMessage=Scrolling%20Pinterest%20for%20art%20references...&showDisplayName=true&hideProfile=true"
+            src="https://lanyard.cnrad.dev/api/528998913806696458?animated=true&idleMessage=Scrolling%20Pinterest%20for%20art%20references...&showDisplayName=true&hideProfile=true"
                 alt="Live Discord Status"></a>
     </div>
 <p><a href="https://spotify-github-profile.kittinanx.com/api/view?uid=xprlca1fazgg5uiqvm6h0z3i7&amp;redirect=true"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=xprlca1fazgg5uiqvm6h0z3i7&amp;cover_image=true&amp;theme=default&amp;show_offline=false&amp;background_color=121212&amp;interchange=true&amp;bar_color_cover=true" alt="spotify-github-profile"></a></p>
