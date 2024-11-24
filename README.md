@@ -7,7 +7,7 @@
 
 <h3 align="center">🚀 Java Enthusiast | Eager to learn</h3>
 
-- 🔭 I’m currently working on [Artwork-Selling-Webapp](https://github.com/GLADIUS240/Artwork-Selling-webapp)
+- 🔭 I’m currently working on [Ecommerce App in Angular 18]((https://github.com/GLADIUS240/Oshop))
 - 📫 How to reach me **deepakbora0000@gmail.com**
 
 <hr>
